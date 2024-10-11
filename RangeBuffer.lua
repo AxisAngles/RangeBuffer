@@ -1,3 +1,4 @@
+-- By Trey Reynolds (AxisAngle)
 --!native
 --!strict
 
