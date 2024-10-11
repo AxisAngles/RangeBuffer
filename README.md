@@ -1,5 +1,11 @@
 Allows for writing, bits, trits, etc.
 
+Compared to BitBuffer:
+Backwards compatible
+More memory efficient
+Equally performant
+Easier to use
+
 Basic use:
 ```lua
 local writer = RangeBuffer.newWriter()
