@@ -1,3 +1,5 @@
+Rust version: https://github.com/krakow10/range_buffer
+
 Allows for writing, bits, trits, etc.
 
 Compared to BitBuffer:  
